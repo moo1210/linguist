@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - master
+      - feat/add-luau
   pull_request:
     branches:
       - master
